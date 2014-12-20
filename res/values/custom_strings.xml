@@ -35,4 +35,14 @@
     <string name="hardware_keys_action_in_app_search">In-app search</string>
     <string name="hardware_keys_action_sleep">Turn screen off</string>
 
+    <!-- Button backlight -->
+    <string name="button_backlight_title">Backlight</string>
+    <string name="button_backlight_enabled">Illuminate buttons</string>
+    <string name="button_backlight_seekbar_title">Button brightness</string>
+    <string name="backlight_timeout_title">Illumination timeout</string>
+    <string name="backlight_timeout_unlimited">Don\'t turn off</string>
+    <string name="backlight_summary_disabled">Disabled</string>
+    <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
+    <string name="backlight_summary_enabled">Enabled</string>
+
 </resources>
