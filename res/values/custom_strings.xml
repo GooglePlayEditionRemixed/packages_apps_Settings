@@ -46,11 +46,9 @@
     <string name="backlight_summary_enabled">Enabled</string>
     <string name="settings_reset_button">Reset</string>
 
-    <string name="dev_1">Sri Harsha &#91;srisurya95&#93;</string>
-    <string name="dev1_description">Lead developer, medical aspirant, AOSP lover, Themer</string>
-    <string name="dev_2">Akhil Narang &#91;fat guy&#93;</string>
-    <string name="dev2_description">Helper, AOSP and Substratum and FOOD &#60;3LOVER , always hungry</string>
-    <string name="dev_info">AOSP-OMS Developers</string>
+    <string name="dev_1">Rafael Pacheco &#91;ROM-PacMe&#93;</string>
+    <string name="dev1_description">CEO of GPE-Remixed, Web Developer, Web Designer and love Android so much ♡.</string>
+    <string name="dev_info">Google Play Edition Remixed Developers</string>
 
     <!-- Qucik unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
